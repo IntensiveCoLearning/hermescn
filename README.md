@@ -13,7 +13,9 @@
 【基本规则】
 
 * 周期：连续 7 天，每日投入约 45–90 分钟
+
 * 形式：阅读短材料、动手实操、群内按模板打卡、和群友深度交流学习
+
 * 注意：不要泄露任何 API Key、Token、私钥等凭据，不让 Agent 未经确认执行危险操作。
 
 ## 共学内容 / 课程信息
@@ -21,11 +23,17 @@
 ##### 每日主题安排
 
 * Day 1：安装并完成第一次对话（环境验证与 doctor 诊断）
-* Day 2：熟悉 Hermes 的基础使用 
+
+* Day 2：熟悉 Hermes 的基础使用
+
 * Day 3：将模糊需求转成 Hermes 可理解的执行任务
+
 * Day 4：管理会话与修正结果（理解 Hermes Profile）
+
 * Day 5：安全边界与故障恢复（理解 Hermes 授权和审核机制）
+
 * Day 6：完成个人场景项目
+
 * Day 7：结营验收（项目展示和分享）
 
 ##### 结营产出
@@ -55,6 +63,7 @@
 ## 面向人群
 
 * 适合对 AI Agent 感兴趣、想将其落地到日常实际工作或学习的参与者；
+
 * 零基础友好，不要求编程经验，每天可稳定投入 45–90 分钟。
 
 ## 社群信息
@@ -62,7 +71,7 @@
 ### 社群 1
 
 - 名称：WeChat
-- 联系人账号：ray001812
+- 联系人账号：rayoo1812
 - 链接：-
 - 二维码：![社群 1 二维码](https://raw.githubusercontent.com/IntensiveCoLearning/hermescn/main/assets/community-1-20260822105804-83-1.jpg)
 <!-- ICL_PROGRAM_METADATA_END -->
@@ -95,4 +104,6 @@
 | [brightheartma](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/253285555.md) |   |   |   |   |   |   |   |
 | [emptytouch](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/21985668.md) |   |   |   |   |   |   |   |
 | [onthebigtree](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/60813639.md) |   |   |   |   |   |   |   |
+| [yhzhongc](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/232001320.md) |   |   |   |   |   |   |   |
+| [Thomas-YHS](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/61337112.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
