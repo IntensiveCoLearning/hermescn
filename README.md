@@ -74,4 +74,9 @@
 <!-- START_COMMIT_TABLE -->
 | Name | 8.27 | 8.28 | 8.29 | 8.30 | 8.31 | 9.01 | 9.02 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/197507345.md) |   |   |   |   |   |   |   |
+| [Chic7777](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/203227491.md) |   |   |   |   |   |   |   |
+| [yedeyu](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/22652991.md) |   |   |   |   |   |   |   |
+| [Floydwish](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/18181011.md) |   |   |   |   |   |   |   |
+| [muxin-web3](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/100744989.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
