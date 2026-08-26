@@ -132,4 +132,6 @@
 | [tigerwong8787](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/73463397.md) |   |   |   |   |   |   |   |
 | [V1ct0r551](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/256002154.md) |   |   |   |   |   |   |   |
 | [ercichen12](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/773231.md) |   |   |   |   |   |   |   |
+| [haobarry](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9339292.md) |   |   |   |   |   |   |   |
+| [chenxian3li](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/314181486.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
