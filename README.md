@@ -134,4 +134,5 @@
 | [ercichen12](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/773231.md) |   |   |   |   |   |   |   |
 | [haobarry](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9339292.md) |   |   |   |   |   |   |   |
 | [chenxian3li](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/314181486.md) |   |   |   |   |   |   |   |
+| [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
