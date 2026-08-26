@@ -42,8 +42,6 @@
 2. 完整项目记录（代码/Skills/文章）
 3. 加入 HermesCN 社区，完成注册（<https://hermescn.org/join>）
 
-<br />
-
 ##### 课程资料
 
 1. <https://hermescn.org/docs/tutorials>
