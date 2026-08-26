@@ -135,4 +135,9 @@
 | [haobarry](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9339292.md) |   |   |   |   |   |   |   |
 | [chenxian3li](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/314181486.md) |   |   |   |   |   |   |   |
 | [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) |   |   |   |   |   |   |   |
+| [panrui1984](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/32954496.md) |   |   |   |   |   |   |   |
+| [yuyzhen](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/15026920.md) |   |   |   |   |   |   |   |
+| [bytehivex](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/209875738.md) |   |   |   |   |   |   |   |
+| [stardustXcosmos](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/321370438.md) |   |   |   |   |   |   |   |
+| [zdrjson](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9263473.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
