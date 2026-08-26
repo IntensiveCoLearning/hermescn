@@ -131,4 +131,5 @@
 | [hhxxa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/100055484.md) |   |   |   |   |   |   |   |
 | [tigerwong8787](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/73463397.md) |   |   |   |   |   |   |   |
 | [V1ct0r551](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/256002154.md) |   |   |   |   |   |   |   |
+| [ercichen12](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/773231.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
