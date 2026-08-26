@@ -124,4 +124,11 @@
 | [cprt32](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/205501378.md) |   |   |   |   |   |   |   |
 | [rokin21](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/17872380.md) |   |   |   |   |   |   |   |
 | [hahahxx](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/1911097.md) |   |   |   |   |   |   |   |
+| [Terence1097](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/95574951.md) |   |   |   |   |   |   |   |
+| [Bill306](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/134838234.md) |   |   |   |   |   |   |   |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/190499865.md) |   |   |   |   |   |   |   |
+| [Volca2603](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/67948675.md) |   |   |   |   |   |   |   |
+| [hhxxa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/100055484.md) |   |   |   |   |   |   |   |
+| [tigerwong8787](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/73463397.md) |   |   |   |   |   |   |   |
+| [V1ct0r551](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/256002154.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
