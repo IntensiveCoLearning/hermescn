@@ -122,4 +122,5 @@
 | [Gloriasinica-aaa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/313867470.md) |   |   |   |   |   |   |   |
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/301989521.md) |   |   |   |   |   |   |   |
 | [cprt32](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/205501378.md) |   |   |   |   |   |   |   |
+| [rokin21](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/17872380.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
