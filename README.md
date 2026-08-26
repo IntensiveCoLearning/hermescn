@@ -123,4 +123,5 @@
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/301989521.md) |   |   |   |   |   |   |   |
 | [cprt32](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/205501378.md) |   |   |   |   |   |   |   |
 | [rokin21](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/17872380.md) |   |   |   |   |   |   |   |
+| [hahahxx](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/1911097.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
