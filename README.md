@@ -99,7 +99,7 @@
 | [RicardoXu2](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/277218242.md) |   |   |   |   |   |   |   |
 | [HalfmanZ](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/231850317.md) | ✅ |   |   |   |   |   |   |
 | [vivalawindy-code](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/320934181.md) |   |   |   |   |   |   |   |
-| [brightheartma](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/253285555.md) |   |   |   |   |   |   |   |
+| [brightheartma](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/253285555.md) | ✅ |   |   |   |   |   |   |
 | [emptytouch](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/21985668.md) |   |   |   |   |   |   |   |
 | [onthebigtree](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/60813639.md) |   |   |   |   |   |   |   |
 | [yhzhongc](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/232001320.md) |   |   |   |   |   |   |   |
@@ -113,7 +113,7 @@
 | [dljwriterxystar](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/237981807.md) | ✅ |   |   |   |   |   |   |
 | [gjuoun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/8935612.md) | ⭕️ |   |   |   |   |   |   |
 | [luffythink](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40992395.md) | ✅ |   |   |   |   |   |   |
-| [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) |   |   |   |   |   |   |   |
+| [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) | ✅ |   |   |   |   |   |   |
 | [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) | ✅ |   |   |   |   |   |   |
 | [cainiao0924](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/276671506.md) | ✅ |   |   |   |   |   |   |
 | [oetn](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/295663348.md) | ✅ |   |   |   |   |   |   |
@@ -135,7 +135,7 @@
 | [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) | ✅ |   |   |   |   |   |   |
 | [panrui1984](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/32954496.md) | ✅ |   |   |   |   |   |   |
 | [yuyzhen](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/15026920.md) |   |   |   |   |   |   |   |
-| [bytehivex](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/209875738.md) |   |   |   |   |   |   |   |
+| [bytehivex](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/209875738.md) | ✅ |   |   |   |   |   |   |
 | [stardustXcosmos](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/321370438.md) |   |   |   |   |   |   |   |
 | [zdrjson](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9263473.md) | ✅ |   |   |   |   |   |   |
 | [myspacehub](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/284569387.md) | ✅ |   |   |   |   |   |   |
