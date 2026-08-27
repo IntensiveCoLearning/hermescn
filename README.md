@@ -124,7 +124,7 @@
 | [hahahxx](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/1911097.md) |   |   |   |   |   |   |   |
 | [Terence1097](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/95574951.md) |   |   |   |   |   |   |   |
 | [Bill306](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/134838234.md) | ✅ |   |   |   |   |   |   |
-| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/190499865.md) |   |   |   |   |   |   |   |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/190499865.md) | ✅ |   |   |   |   |   |   |
 | [Volca2603](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/67948675.md) |   |   |   |   |   |   |   |
 | [hhxxa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/100055484.md) |   |   |   |   |   |   |   |
 | [tigerwong8787](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/73463397.md) |   |   |   |   |   |   |   |
