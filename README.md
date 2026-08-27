@@ -85,7 +85,7 @@
 | [newraina](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/10708802.md) |   |   |   |   |   |   |   |
 | [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/308174533.md) | ✅ |   |   |   |   |   |   |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/95468177.md) |   |   |   |   |   |   |   |
-| [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/197507345.md) |   |   |   |   |   |   |   |
+| [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/197507345.md) | ✅ |   |   |   |   |   |   |
 | [Chic7777](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/203227491.md) | ✅ |   |   |   |   |   |   |
 | [yedeyu](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/22652991.md) | ⭕️ |   |   |   |   |   |   |
 | [Floydwish](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/18181011.md) | ✅ |   |   |   |   |   |   |
@@ -116,7 +116,7 @@
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) |   |   |   |   |   |   |   |
 | [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) | ✅ |   |   |   |   |   |   |
 | [cainiao0924](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/276671506.md) | ✅ |   |   |   |   |   |   |
-| [oetn](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/295663348.md) |   |   |   |   |   |   |   |
+| [oetn](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/295663348.md) | ✅ |   |   |   |   |   |   |
 | [Gloriasinica-aaa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/313867470.md) |   |   |   |   |   |   |   |
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/301989521.md) |   |   |   |   |   |   |   |
 | [cprt32](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/205501378.md) |   |   |   |   |   |   |   |
