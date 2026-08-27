@@ -111,7 +111,7 @@
 | [tz-hao](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/272461971.md) |   |   |   |   |   |   |   |
 | [ayyadavid](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/4806866.md) |   |   |   |   |   |   |   |
 | [dljwriterxystar](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/237981807.md) |   |   |   |   |   |   |   |
-| [gjuoun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/8935612.md) |   |   |   |   |   |   |   |
+| [gjuoun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/8935612.md) | ⭕️ |   |   |   |   |   |   |
 | [luffythink](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40992395.md) | ✅ |   |   |   |   |   |   |
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) |   |   |   |   |   |   |   |
 | [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) |   |   |   |   |   |   |   |
@@ -132,7 +132,7 @@
 | [ercichen12](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/773231.md) |   |   |   |   |   |   |   |
 | [haobarry](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9339292.md) |   |   |   |   |   |   |   |
 | [chenxian3li](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/314181486.md) |   |   |   |   |   |   |   |
-| [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) |   |   |   |   |   |   |   |
+| [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) | ✅ |   |   |   |   |   |   |
 | [panrui1984](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/32954496.md) |   |   |   |   |   |   |   |
 | [yuyzhen](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/15026920.md) |   |   |   |   |   |   |   |
 | [bytehivex](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/209875738.md) |   |   |   |   |   |   |   |
