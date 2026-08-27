@@ -88,7 +88,7 @@
 | [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/197507345.md) |   |   |   |   |   |   |   |
 | [Chic7777](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/203227491.md) | ✅ |   |   |   |   |   |   |
 | [yedeyu](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/22652991.md) | ⭕️ |   |   |   |   |   |   |
-| [Floydwish](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/18181011.md) |   |   |   |   |   |   |   |
+| [Floydwish](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/18181011.md) | ✅ |   |   |   |   |   |   |
 | [muxin-web3](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/100744989.md) |   |   |   |   |   |   |   |
 | [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/176461498.md) |   |   |   |   |   |   |   |
 | [Jorrrmungandr](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/81091644.md) |   |   |   |   |   |   |   |
