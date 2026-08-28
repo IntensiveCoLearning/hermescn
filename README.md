@@ -113,7 +113,7 @@
 | [dljwriterxystar](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/237981807.md) | ✅ | ✅ |   |   |   |   |   |
 | [gjuoun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/8935612.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [luffythink](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40992395.md) | ✅ | ✅ |   |   |   |   |   |
-| [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) | ✅ |   |   |   |   |   |   |
+| [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) | ✅ | ✅ |   |   |   |   |   |
 | [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) | ✅ | ✅ |   |   |   |   |   |
 | [cainiao0924](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/276671506.md) | ✅ | ✅ |   |   |   |   |   |
 | [oetn](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/295663348.md) | ✅ | ✅ |   |   |   |   |   |
