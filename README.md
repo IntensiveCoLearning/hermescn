@@ -132,7 +132,7 @@
 | [ercichen12](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/773231.md) | ⭕️ |   |   |   |   |   |   |
 | [haobarry](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9339292.md) | ✅ | ✅ |   |   |   |   |   |
 | [chenxian3li](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/314181486.md) | ⭕️ |   |   |   |   |   |   |
-| [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) | ✅ |   |   |   |   |   |   |
+| [MEME110](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/39554701.md) | ✅ | ✅ |   |   |   |   |   |
 | [panrui1984](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/32954496.md) | ✅ |   |   |   |   |   |   |
 | [yuyzhen](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/15026920.md) | ⭕️ |   |   |   |   |   |   |
 | [bytehivex](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/209875738.md) | ✅ |   |   |   |   |   |   |
