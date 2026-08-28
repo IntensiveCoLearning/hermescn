@@ -140,6 +140,6 @@
 | [zdrjson](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9263473.md) | ✅ | ✅ |   |   |   |   |   |
 | [myspacehub](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/284569387.md) | ✅ | ✅ |   |   |   |   |   |
 | [wodeche](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40746051.md) | ✅ |   |   |   |   |   |   |
-| [xiluoya](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/117661182.md) | ⭕️ |   |   |   |   |   |   |
+| [xiluoya](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/117661182.md) | ⭕️ | ✅ |   |   |   |   |   |
 | [ricarduuu](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/22297349.md) | ✅ |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
