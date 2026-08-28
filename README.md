@@ -93,7 +93,7 @@
 | [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/176461498.md) | ✅ | ✅ |   |   |   |   |   |
 | [Jorrrmungandr](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/81091644.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [rayjun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/7517993.md) | ✅ | ✅ |   |   |   |   |   |
-| [jack5190](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/252296727.md) | ✅ | ⭕️ |   |   |   |   |   |
+| [jack5190](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/252296727.md) | ✅ | ⭕️ | ✅ |   |   |   |   |
 | [jiezi77706](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/185812999.md) | ✅ | ✅ |   |   |   |   |   |
 | [Jay9625](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/42426170.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [RicardoXu2](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/277218242.md) | ⭕️ | ❌ |   |   |   |   |   |
@@ -137,7 +137,7 @@
 | [yuyzhen](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/15026920.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [bytehivex](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/209875738.md) | ✅ | ✅ |   |   |   |   |   |
 | [stardustXcosmos](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/321370438.md) | ⭕️ | ❌ |   |   |   |   |   |
-| [zdrjson](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9263473.md) | ✅ | ✅ |   |   |   |   |   |
+| [zdrjson](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/9263473.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [myspacehub](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/284569387.md) | ✅ | ✅ |   |   |   |   |   |
 | [wodeche](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40746051.md) | ✅ | ⭕️ |   |   |   |   |   |
 | [xiluoya](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/117661182.md) | ⭕️ | ✅ |   |   |   |   |   |
