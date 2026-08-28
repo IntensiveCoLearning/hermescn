@@ -106,7 +106,7 @@
 | [Thomas-YHS](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/61337112.md) | ✅ |   |   |   |   |   |   |
 | [goodtome](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/75173657.md) | ✅ | ✅ |   |   |   |   |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/29766018.md) | ✅ |   |   |   |   |   |   |
-| [Yang1221-X](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/261720344.md) | ✅ |   |   |   |   |   |   |
+| [Yang1221-X](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/261720344.md) | ✅ | ✅ |   |   |   |   |   |
 | [Iven666](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/189460899.md) | ⭕️ |   |   |   |   |   |   |
 | [tz-hao](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/272461971.md) | ✅ |   |   |   |   |   |   |
 | [ayyadavid](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/4806866.md) | ⭕️ | ❌ |   |   |   |   |   |
