@@ -82,7 +82,7 @@
 | Name | 8.27 | 8.28 | 8.29 | 8.30 | 8.31 | 9.01 | 9.02 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [justskinny5](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/17610879.md) | ✅ |   |   |   |   |   |   |
-| [newraina](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/10708802.md) | ✅ |   |   |   |   |   |   |
+| [newraina](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/10708802.md) | ✅ | ✅ |   |   |   |   |   |
 | [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/308174533.md) | ✅ |   |   |   |   |   |   |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/95468177.md) | ⭕️ | ✅ |   |   |   |   |   |
 | [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/197507345.md) | ✅ | ✅ |   |   |   |   |   |
