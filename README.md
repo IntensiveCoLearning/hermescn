@@ -83,7 +83,7 @@
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [justskinny5](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/17610879.md) | ✅ | ✅ |   |   |   |   |   |
 | [newraina](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/10708802.md) | ✅ | ✅ |   |   |   |   |   |
-| [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/308174533.md) | ✅ | ✅ |   |   |   |   |   |
+| [jinbuge101-art](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/308174533.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/95468177.md) | ⭕️ | ✅ |   |   |   |   |   |
 | [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/197507345.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [Chic7777](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/203227491.md) | ✅ | ✅ | ✅ |   |   |   |   |
