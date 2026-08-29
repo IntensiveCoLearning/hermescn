@@ -94,7 +94,7 @@
 | [Jorrrmungandr](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/81091644.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [rayjun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/7517993.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [jack5190](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/252296727.md) | ✅ | ⭕️ | ✅ |   |   |   |   |
-| [jiezi77706](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/185812999.md) | ✅ | ✅ |   |   |   |   |   |
+| [jiezi77706](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/185812999.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [Jay9625](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/42426170.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [RicardoXu2](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/277218242.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [HalfmanZ](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/231850317.md) | ✅ | ✅ | ✅ |   |   |   |   |
@@ -114,7 +114,7 @@
 | [gjuoun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/8935612.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [luffythink](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40992395.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) | ✅ | ✅ |   |   |   |   |   |
-| [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) | ✅ | ✅ |   |   |   |   |   |
+| [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [cainiao0924](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/276671506.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [oetn](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/295663348.md) | ✅ | ✅ |   |   |   |   |   |
 | [Gloriasinica-aaa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/313867470.md) | ⭕️ | ❌ |   |   |   |   |   |
