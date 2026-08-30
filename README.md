@@ -115,7 +115,7 @@
 | [luffythink](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/40992395.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/49739676.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [annecn037](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/242340615.md) | ✅ | ✅ | ✅ |   |   |   |   |
-| [cainiao0924](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/276671506.md) | ✅ | ✅ | ✅ |   |   |   |   |
+| [cainiao0924](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/276671506.md) | ✅ | ✅ | ✅ | ✅ |   |   |   |
 | [oetn](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/295663348.md) | ✅ | ✅ | ⭕️ |   |   |   |   |
 | [Gloriasinica-aaa](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/313867470.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [hanghangdamowangfa-tech](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/301989521.md) | ✅ | ⭕️ | ❌ |   |   |   |   |
