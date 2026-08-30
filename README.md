@@ -99,7 +99,7 @@
 | [RicardoXu2](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/277218242.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [HalfmanZ](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/231850317.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [vivalawindy-code](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/320934181.md) | ⭕️ | ❌ |   |   |   |   |   |
-| [brightheartma](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/253285555.md) | ✅ | ✅ | ✅ |   |   |   |   |
+| [brightheartma](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/253285555.md) | ✅ | ✅ | ✅ | ✅ |   |   |   |
 | [emptytouch](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/21985668.md) | ⭕️ | ✅ | ❌ |   |   |   |   |
 | [onthebigtree](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/60813639.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [yhzhongc](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/232001320.md) | ✅ | ✅ | ⭕️ |   |   |   |   |
