@@ -108,7 +108,7 @@
 | [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/29766018.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [Yang1221-X](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/261720344.md) | ✅ | ✅ | ⭕️ | ❌ |   |   |   |
 | [Iven666](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/189460899.md) | ⭕️ | ✅ | ✅ | ❌ |   |   |   |
-| [tz-hao](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/272461971.md) | ✅ | ⭕️ | ✅ | ✅ |   |   |   |
+| [tz-hao](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/272461971.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ |   |   |
 | [ayyadavid](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/4806866.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [dljwriterxystar](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/237981807.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   |   |
 | [gjuoun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/8935612.md) | ⭕️ | ❌ |   |   |   |   |   |
