@@ -90,7 +90,7 @@
 | [yedeyu](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/22652991.md) | ⭕️ | ✅ | ✅ | ✅ | ❌ |   |   |
 | [Floydwish](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/18181011.md) | ✅ | ✅ | ⭕️ | ❌ |   |   |   |
 | [muxin-web3](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/100744989.md) | ⭕️ | ✅ | ❌ |   |   |   |   |
-| [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/176461498.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   |
+| [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/176461498.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |
 | [Jorrrmungandr](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/81091644.md) | ⭕️ | ❌ |   |   |   |   |   |
 | [rayjun](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/7517993.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [jack5190](https://github.com/IntensiveCoLearning/hermescn/blob/main/notes/252296727.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |
